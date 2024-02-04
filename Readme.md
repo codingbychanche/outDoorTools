@@ -3,7 +3,8 @@
  ![](logoSmall.png)
 This is a collection of classes and methods providing useful tools.
 <h1>Example</h1>
-<i>
+
+<samp>
 Day of year:260<br>
 Timezone:Mitteleuropäische Normalzeit<br>
 Timezone:Europe/Berlin<br>
@@ -16,4 +17,4 @@ Sunset:19.199583812125187<br>
 Sunset:19:11<br>
 Dew point:8.816826 C'<br>
 Altitude (relative to reffernece=1000.0)=33.79853 m<br>
-</i>
+ </samp>

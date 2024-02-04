@@ -3,6 +3,7 @@
 <table>
 <tr>
 <td>
+  ![](logoSmall.png)
 </td>
 <td>
 This is a collection of classes and methods providing useful tools.

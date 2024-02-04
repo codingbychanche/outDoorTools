@@ -1,10 +1,11 @@
+<h1>Outdoor Tools</h1>
 <table>
  <tr>
   <td valign="top">
-   Outdoor Tools
-   This is a collection of classes and methods providing useful tools.
+   <b></b>Outdoor Tools
+   This is a collection of classes and methods providing useful tools.</b>
    
-   <h1>Example</h1>
+   <b>Example</b>
 
    <samp>
    Day of year:260<br>

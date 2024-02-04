@@ -1,8 +1,9 @@
-<h1>Outdoor Tools</h1>
 <table>
  <tr>
   <td><img src="logoSmall.png" /></td>
-  <td>This is a collection of classes and methods providing useful tools.</td>
+  <td>
+   <h1>Outdoor Tools</h1>
+   This is a collection of classes and methods providing useful tools.</td>
  </tr>
 </table>
 

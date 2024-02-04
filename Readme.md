@@ -1,6 +1,6 @@
 <h1>Outdoor Tools</h1>
 
-<img src="doc/logoSmall.png" />This is a collection of classes and methods providing useful tools.
+<img src="logoSmall.png" />This is a collection of classes and methods providing useful tools.
 <h1>Example</h1>
 
 <samp>

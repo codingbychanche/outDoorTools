@@ -1,5 +1,13 @@
 <h1>Outdoor Tools</h1>
+
+<table>
+<tr>
+<td>
+</td>
+<td>
 This is a collection of classes and methods providing useful tools.
+</td>
+</table>
 
 <h1>Example</h1>
 <i>

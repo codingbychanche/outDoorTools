@@ -1,7 +1,7 @@
 <h1>Outdoor Tools</h1>
 
-<table style="border-collapse: collapse; border: none;">
- <tr>
+<table>
+ <tr style="border-collapse: collapse; border: none;">
   <td valign="top">
    <b>Example</b><p>
 

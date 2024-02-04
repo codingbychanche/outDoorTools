@@ -1,15 +1,7 @@
 <h1>Outdoor Tools</h1>
 
-<table>
-<tr>
-<td>
-  ![](logoSmall.png)
-</td>
-<td>
+ ![](logoSmall.png)
 This is a collection of classes and methods providing useful tools.
-</td>
-</table>
-
 <h1>Example</h1>
 <i>
 Day of year:260<br>

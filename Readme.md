@@ -21,7 +21,7 @@
  </samp>
 
 </td>
-   <td><img src="logoSmall.png" /></td>
+   <td vallign="top"><img src="logoSmall.png" /></td>
  </tr>
 </table>
 

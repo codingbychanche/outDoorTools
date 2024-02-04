@@ -1,6 +1,14 @@
 <h1>Outdoor Tools</h1>
 
-<img src="logoSmall.png" />This is a collection of classes and methods providing useful tools.
+<table>
+ <tr>
+  <td>img src="logoSmall.png" /></td>
+  <td><This is a collection of classes and methods providing useful tools.</td>
+ </tr>
+</table>
+ 
+
+
 <h1>Example</h1>
 
 <samp>

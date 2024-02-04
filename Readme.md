@@ -1,6 +1,6 @@
 <h1>Outdoor Tools</h1>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
  <tr>
   <td valign="top">
    <b>Example</b><p>

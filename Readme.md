@@ -1,10 +1,9 @@
 <h1>Outdoor Tools</h1>
-This is a collection of classes and methods providing useful tools.</b>
 
 <table>
  <tr>
   <td valign="top">
-   <b>Example</b>
+   <b>Example</b><p>
 
    <samp>
    Day of year:260<br>
@@ -19,7 +18,7 @@ This is a collection of classes and methods providing useful tools.</b>
    Sunset:19:11<br>
    Dew point:8.816826 C'<br>
    Altitude (relative to reffernece=1000.0)=33.79853 m<br>
-  </samp>
+  </samp></p>
 </td>
    <td valign="top"><img src="logoSmall.png" /></td>
  </tr>

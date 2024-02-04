@@ -3,13 +3,11 @@
 <table>
  <tr>
   <td>img src="logoSmall.png" /></td>
-  <td><This is a collection of classes and methods providing useful tools.</td>
+  <td>This is a collection of classes and methods providing useful tools.</td>
  </tr>
 </table>
- 
 
-
-<h1>Example</h1>
+   <h1>Example</h1>
 
 <samp>
 Day of year:260<br>

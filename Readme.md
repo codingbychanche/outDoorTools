@@ -1,8 +1,9 @@
 <table>
  <tr>
   <td valign="top">
-   <h1>Outdoor Tools</h1>
+   Outdoor Tools
    This is a collection of classes and methods providing useful tools.
+   
    <h1>Example</h1>
 
    <samp>
